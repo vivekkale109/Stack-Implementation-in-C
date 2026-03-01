@@ -2,14 +2,14 @@
 
 ## 📌 Project Description
 
-This project demonstrates the implementation of a **Stack** using arrays in C.  
+This project demonstrates the implementation of a "Stack" using arrays in C.  
 It includes basic stack operations such as:
 
 - Push
 - Pop
 - Display
 
-Additionally, it uses the stack data structure to **reverse a string**, showing a practical application of stack concepts.
+Additionally, it uses the stack data structure to "reverse a string", showing a practical application of stack concepts.
 
 ---
 
