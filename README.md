@@ -3,7 +3,7 @@
 ## 📌 Project Description
 
 This project demonstrates the implementation of a "Stack" using arrays in C.  
-It includes basic stack operations such as:
+It includes basic stack operations such as: 
 
 - Push
 - Pop
